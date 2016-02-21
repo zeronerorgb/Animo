@@ -1,4 +1,4 @@
-# Animo
+#Animo
 
 ![img](http://cs629513.vk.me/v629513106/3a6fd/cjLPiUhYc3w.jpg)
 ![img](http://cs629513.vk.me/v629513106/3a707/p_Mn1wowcBY.jpg)
@@ -19,3 +19,27 @@ To solve these problems, we have developed a software and hardware system which 
 
 
 In the future, we plan to work with feed manufacturers, for joint production of feed for our feeder. This helps to increase the share of our company in the market.
+
+----
+
+#### Project
+
+On the first page you need to enter the name of your pet
+![img](http://cs631721.vk.me/v631721770/15fe2/hPUhCfjHLMg.jpg)
+
+On the next page you need to choose the feed for your pet. Now there are only two variants, but in the future we will expend amount of feeds. On each edge of the chart there are the percentage values corresponding to the content of proteins, fats and carbohydrates in the chosen feed.
+![img](http://cs631721.vk.me/v631721770/15feb/Oc2zOQxDQk8.jpg)
+
+On the main page displays a graph of the condition of your pet: 0 – the animal feels bad and should be taken to a vet, 1 – the animal is healthy. If the value of condition falls to zero, appears the warning that the animal should be carried to the vet. To see the value of each point of the graph you need to hold the mouse over it or click on it. This graph is convenient, but few informative, for more information you need to click on this graph
+![img](http://cs631721.vk.me/v631721770/15ff4/DU-UALxAoxQ.jpg)
+
+the following graphs show 
+1) quantity of eaten feed in grams 
+2) quantity of consumed proteins, fats and carbohydrates
+![img](http://cs631721.vk.me/v631721770/16012/iK1pPCdt6Js.jpg)
+
+
+	
+The main graph is a graph of the state of the animal, and its accuracy is most important, because we are working with veterinarians to improve its formula
+
+
