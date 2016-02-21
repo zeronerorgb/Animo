@@ -61,7 +61,7 @@ var getXmlHttp = function(){
 	
 var send = function (index, fun) {
 
-	var url = "/re/Animo/php/server.php";
+	var url = "/php/server.php";
 	var params = "index="+index;
 	var http = getXmlHttp();
 
