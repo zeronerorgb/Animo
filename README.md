@@ -22,7 +22,7 @@ In the future, we plan to work with feed manufacturers, for joint production of 
 
 ----
 
-#### Project
+# Project
 
 On the first page you need to enter the name of your pet
 ![img](http://cs631721.vk.me/v631721770/15fe2/hPUhCfjHLMg.jpg)
