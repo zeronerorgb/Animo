@@ -20,7 +20,6 @@ To solve these problems, we have developed a software and hardware system which 
 
 In the future, we plan to work with feed manufacturers, for joint production of feed for our feeder. This helps to increase the share of our company in the market.
 
-----
 
 # Project
 
@@ -34,8 +33,8 @@ On the main page displays a graph of the condition of your pet: 0 – the animal
 ![img](http://cs631721.vk.me/v631721770/15ff4/DU-UALxAoxQ.jpg)
 
 the following graphs show 
-1) quantity of eaten feed in grams 
-2) quantity of consumed proteins, fats and carbohydrates
+1. quantity of eaten feed in grams 
+2. quantity of consumed proteins, fats and carbohydrates
 ![img](http://cs631721.vk.me/v631721770/16012/iK1pPCdt6Js.jpg)
 
 
