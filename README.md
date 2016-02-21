@@ -1,5 +1,4 @@
 # Animo
-#Animo
 
 ![img](http://cs629513.vk.me/v629513106/3a6fd/cjLPiUhYc3w.jpg)
 ![img](http://cs629513.vk.me/v629513106/3a707/p_Mn1wowcBY.jpg)
