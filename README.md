@@ -32,7 +32,8 @@ On the next page you need to choose the feed for your pet. Now there are only tw
 On the main page displays a graph of the condition of your pet: 0 – the animal feels bad and should be taken to a vet, 1 – the animal is healthy. If the value of condition falls to zero, appears the warning that the animal should be carried to the vet. To see the value of each point of the graph you need to hold the mouse over it or click on it. This graph is convenient, but few informative, for more information you need to click on this graph
 ![img](http://cs631721.vk.me/v631721770/15ff4/DU-UALxAoxQ.jpg)
 
-the following graphs show 
+the following graphs show
+
 1. quantity of eaten feed in grams 
 2. quantity of consumed proteins, fats and carbohydrates
 ![img](http://cs631721.vk.me/v631721770/16012/iK1pPCdt6Js.jpg)
